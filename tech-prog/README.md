@@ -1,3 +1,5 @@
+The app is avaible on http://localhost:8080/ after npm run serve
+
 # tech-prog
 
 ## Project setup
